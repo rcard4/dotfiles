@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/home/rcard/Documents/i3startscript.sh
+Icon=dialog-scripts
+Name=i3startscript.sh
+Path=
+Type=Application
+X-KDE-AutostartScript=true

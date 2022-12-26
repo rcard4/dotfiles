@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/home/rcard/Documents/startscript.sh
+Icon=dialog-scripts
+Name=startscript.sh
+Path=
+Type=Application
+X-KDE-AutostartScript=true
