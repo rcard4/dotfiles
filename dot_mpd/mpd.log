@@ -3934,3 +3934,6 @@ Jan 13 02:08 : config: option 'device' on line 13 was not recognized
 Jan 12 21:27 : player: played "#3.mp3"
 Jan 12 22:27 : player: played "Bad Brains/coma.mp3"
 Jan 13 23:12 : config: option 'device' on line 13 was not recognized
+Jan 14 02:06 : player: played "Bad Brains/coma.mp3"
+Jan 14 02:07 : config: option 'device' on line 13 was not recognized
+Jan 14 14:27 : config: option 'device' on line 13 was not recognized
